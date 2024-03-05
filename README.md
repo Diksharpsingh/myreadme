@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Diksha Singh and I'm a full stack devloper, from India</h2>
+<h2 align="center">Hi 👋! My name is Diksha Singh and I'm a full stack developer, from India</h2>
 
 ###
 
